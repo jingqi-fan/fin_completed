@@ -1,0 +1,1 @@
+This is the second part for the project: utilizing Bert to analyse the conversation between users and stock assistant so that we get a user profile on easy, mid, had.
